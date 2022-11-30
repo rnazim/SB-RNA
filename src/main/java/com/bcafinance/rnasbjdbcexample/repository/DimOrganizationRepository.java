@@ -1,6 +1,6 @@
-package com.bcafinance.rna.sbjdbcexample.repository;
+package com.bcafinance.rnasbjdbcexample.repository;
 
-import com.bcafinance.rna.sbjdbcexample.model.DimOrganization;
+import com.bcafinance.rnasbjdbcexample.model.DimOrganization;
 
 import java.util.List;
 

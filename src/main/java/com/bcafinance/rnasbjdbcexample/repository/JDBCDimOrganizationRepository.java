@@ -1,4 +1,4 @@
-package com.bcafinance.rna.sbjdbcexample.repository;/*
+package com.bcafinance.rnasbjdbcexample.repository;/*
 Created By IntelliJ IDEA 2022.2.3 (Comunity Edition)
 Build #IU-222.4345.14, built on October 5, 2022
 @Author Azim a.k.a. Azim
@@ -8,7 +8,7 @@ Create on 22/11/2022
 Version 1.0
 */
 
-import com.bcafinance.rna.sbjdbcexample.model.DimOrganization;
+import com.bcafinance.rnasbjdbcexample.model.DimOrganization;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

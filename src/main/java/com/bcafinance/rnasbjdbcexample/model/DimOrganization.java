@@ -1,4 +1,4 @@
-package com.bcafinance.rna.sbjdbcexample.model;/*
+package com.bcafinance.rnasbjdbcexample.model;/*
 Created By IntelliJ IDEA 2022.2.3 (Comunity Edition)
 Build #IU-222.4345.14, built on October 5, 2022
 @Author Azim a.k.a. Azim

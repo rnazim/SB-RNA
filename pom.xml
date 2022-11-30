@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.bcafinance</groupId>
-    <artifactId>springboot</artifactId>
+    <artifactId>rnasbjdbcexample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
-    <name>demospringbootjdbc</name>
+    <packaging>jar</packaging>
+    <name>rnasbjdbcexample</name>
     <description>Demo project for Spring Boot With JDBC SQL Server</description>
     <properties>
         <java.version>1.8</java.version>

@@ -1,19 +1,19 @@
-package com.bcafinance.rna.sbjdbcexample;
-
-import org.springframework.boot.builder.SpringApplicationBuilder;
-import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
-
-public class ServletInitializer extends SpringBootServletInitializer {
-
-	@Override
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(DemospringbootjdbcApplication.class);
-	}
-
-
-	public void testMethod(){
-
-
-
-	}
-}
+//package com.bcafinance.rnasbjdbcexample;
+//
+//import org.springframework.boot.builder.SpringApplicationBuilder;
+//import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
+//
+//public class ServletInitializer extends SpringBootServletInitializer {
+//
+//	@Override
+//	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+//		return application.sources(DemospringbootjdbcApplication.class);
+//	}
+//
+//
+//	public void testMethod(){
+//
+//
+//
+//	}
+//}
